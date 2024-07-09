@@ -11,6 +11,11 @@
     
 }
 
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+
 h3{
     font-family: 'Sofia', cursive;
 }
@@ -56,12 +61,12 @@ img.bg {
     opacity: 0.8;
 }
 
-.btn1{
+button{
     background-color: rgb(195, 98, 106);
     text-align: center;
     justify-content: center;
     align-items: center;
-    border-radius: 5px solid black;
+    border-radius: 8px;
     padding: 10px;
     margin: 10px;
     font-size: 15px;
