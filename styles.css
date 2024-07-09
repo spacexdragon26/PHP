@@ -72,3 +72,11 @@ button{
     font-size: 15px;
     cursor: pointer;
 }
+
+.submitMsg{
+    color: green;
+    font-size: 15px;
+    font-style: italic;
+}
+
+/*INSERT INTO `people` (`srno`, `name`, `age`, `gender`, `bloodgroup`, `phno`, `emailid`, `dest`, `days`, `notes`, `dt`) VALUES ('1', 'testname', '30', 'male', 'A', '1111111111', 'this@this.com', 'beach', '3', 'demo msg', CURRENT_TIMESTAMP);*/
